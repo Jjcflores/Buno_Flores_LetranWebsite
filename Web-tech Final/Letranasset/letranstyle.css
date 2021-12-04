@@ -1,0 +1,28 @@
+.tit{
+    font-style: italic;
+    font-size: medium;
+    font-weight: bold;
+    position: absolute;
+    left: 70px;
+    top: -10px;
+    color: red;
+}
+.imahe{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+a{
+    text-decoration: none;
+}
+.navb{
+    position: absolute;
+    top: 80px;
+    right: 100px;
+}
+.navbhref{
+    margin-right: 30px;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+}
